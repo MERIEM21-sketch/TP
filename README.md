@@ -1,2 +1,33 @@
-# TP
-COURS TICS INFORMATIQUE
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Exemple avec CSS interne</title>
+
+  <!-- Ici le CSS est écrit dans la balise <style> -->
+  <style>
+    body {
+      background-color: lightgreen;
+      text-align: center;
+      padding: 50px;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      color: darkblue;
+      font-size: 36px;
+    }
+    p {
+      color: darkslategray;
+      font-size: 20px;
+    }
+  </style>
+
+</head>
+<body>
+
+  <h1> hello learn with me Dr. tabet the course of TIC  ! </h1>
+  <p>Ceci est une page avec du HTML et du CSS ensemble.</p>
+
+</body>
+</html>
+
